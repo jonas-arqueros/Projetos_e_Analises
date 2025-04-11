@@ -56,5 +56,5 @@ Avaliar se há correlação entre variáveis climáticas e o rendimento agrícol
 ## 👤 Autor
 
 - Jonas G G A Ribeiro
-- Contato: jonas.arqueros@gmail.com ou [LinkedIn]](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/)
+- Contato: jonas.arqueros@gmail.com ou [LinkedIn](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/)
 
