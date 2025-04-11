@@ -12,6 +12,15 @@ Avaliar se há correlação entre variáveis climáticas e o rendimento agrícol
 
 ## 🗂️ Estrutura do Projeto
 
+- `data/`: dados utilizados no projeto
+  - `raw/`: dados brutos (direto das fontes, sem tratamento)
+  - `processed/`: dados tratados e prontos para análise
+- `notebooks/`: notebooks com a análise exploratória
+- `src/`: scripts Python com funções de tratamento e análise
+- `visuals/`: imagens e gráficos gerados
+  - `graphs/`: gráficos exportados
+- `README.md`: documentação geral do projeto
+- `requirements.txt`: lista de bibliotecas Python necessárias
 
 ---
 
@@ -24,9 +33,13 @@ Avaliar se há correlação entre variáveis climáticas e o rendimento agrícol
 
 ## 🔧 Ferramentas e Tecnologias
 
-- Python (Pandas, Matplotlib, Seaborn)
+- Python
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
 - Jupyter Notebook
-- Git/GitHub
+- Git e GitHub
 
 ---
 
@@ -35,11 +48,13 @@ Avaliar se há correlação entre variáveis climáticas e o rendimento agrícol
 - Gráficos de correlação entre clima e produtividade
 - Análises temporais e espaciais da produção de milho
 - Identificação de padrões sazonais
+- Visualizações de clima vs produção
+- Sugestões com base nos dados para tomada de decisão
 
 ---
 
-## 👩‍💻 Autor
+## 👤 Autor
 
-- Jonas G G Arqueros e Ribeiro
+- Jonas G G A Ribeiro
 - Contato: jonas.arqueros@gmail.com ou [LinkedIn]](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/)
 
