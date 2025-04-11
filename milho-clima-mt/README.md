@@ -12,3 +12,34 @@ Avaliar se há correlação entre variáveis climáticas e o rendimento agrícol
 
 ## 🗂️ Estrutura do Projeto
 
+
+---
+
+## 🧪 Dados Utilizados
+
+- **Produção Agrícola**: [SIDRA - IBGE](https://sidra.ibge.gov.br/)
+- **Clima (Histórico)**: [INMET](https://bdmep.inmet.gov.br/)
+
+---
+
+## 🔧 Ferramentas e Tecnologias
+
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Git/GitHub
+
+---
+
+## 📊 Resultados Esperados
+
+- Gráficos de correlação entre clima e produtividade
+- Análises temporais e espaciais da produção de milho
+- Identificação de padrões sazonais
+
+---
+
+## 👩‍💻 Autor
+
+- Jonas G G Arqueros e Ribeiro
+- Contato: jonas.arqueros@gmail.com ou [LinkedIn]](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/)
+
