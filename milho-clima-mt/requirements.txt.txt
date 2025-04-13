@@ -1,3 +1,5 @@
+os
+glob
 pandas
 numpy
 matplotlib
