@@ -13,10 +13,17 @@ Este projeto faz parte do meu portfólio de análise de dados e tem como objetiv
 
 ---
 
-## 🗃️ Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 
-
-
+- `data/`: dados utilizados no projeto
+  - `raw/`: dados brutos (direto das fontes, sem tratamento)
+  - `processed/`: dados tratados e prontos para análise
+- `notebooks/`: notebooks com a análise exploratória
+- `src/`: scripts Python com funções de tratamento e análise
+- `visuals/`: imagens e gráficos gerados
+  - `graphs/`: gráficos exportados
+- `README.md`: documentação geral do projeto
+- `requirements.txt`: lista de bibliotecas Python necessárias
 
 ---
 
@@ -26,20 +33,21 @@ Este projeto faz parte do meu portfólio de análise de dados e tem como objetiv
 - Pandas  
 - Seaborn  
 - Matplotlib  
-- NumPy  
+- NumPy
+- Scipy
 
 ---
 
 ## 📊 Exemplos de Visualizações
 
 ### Temperatura Média Anual
-![Temperatura Média Anual](visuals/graphs/medias_mensais_temperatura_sp.png)
+![Temperatura Média Anual](visuals/graphs/medias_mensais_temperatura_sp_regressao.png)
 
 ### Heatmap: Temperatura Máxima por Mês e Ano  
-![Heatmap Temperatura](visuals/heatmaps/heatmap_temp_max.png)
+![Heatmap Temperatura](visuals/heatmaps/media_tmax_heatmap_sp.png)
 
 ### Heatmap: Precipitação Mensal  
-![Heatmap Precipitação](visuals/heatmaps/heatmap_precipitacao.png)
+![Heatmap Precipitação](visuals/heatmaps/precipitacao_mensal_ano_total_heatmap_sp.png)
 
 ---
 
@@ -69,6 +77,6 @@ Este projeto faz parte do meu portfólio de análise de dados e tem como objetiv
 
 Caso tenha interesse em conversar sobre este projeto ou colaborações:
 
-**Seu Nome Aqui**  
-[Seu email ou LinkedIn ou GitHub link]
+**Jonas G G A Ribeiro**  
+jonas.arqueros@gmail.com [[LinkedIn](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/)]
 
