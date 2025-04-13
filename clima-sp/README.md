@@ -44,10 +44,10 @@ Este projeto faz parte do meu portfólio de análise de dados e tem como objetiv
 ![Temperatura Média Anual](visuals/graphs/medias_mensais_temperatura_sp_regressao.png)
 
 ### Heatmap: Temperatura Máxima por Mês e Ano  
-![Heatmap Temperatura](visuals/heatmaps/media_tmax_heatmap_sp.png)
+![Heatmap Temperatura](visuals/graphs/media_tmax_heatmap_sp.png)
 
 ### Heatmap: Precipitação Mensal  
-![Heatmap Precipitação](visuals/heatmaps/precipitacao_mensal_ano_total_heatmap_sp.png)
+![Heatmap Precipitação](visuals/graphs/precipitacao_mensal_ano_total_heatmap_sp.png)
 
 ---
 
