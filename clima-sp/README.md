@@ -75,5 +75,7 @@ Este projeto faz parte do meu portfólio de análise de dados e tem como objetiv
 Caso tenha interesse em conversar sobre este projeto ou colaborações:
 
 **Jonas G G A Ribeiro**  
-jonas.arqueros@gmail.com [[LinkedIn](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/)]
+jonas.arqueros@gmail.com [[LinkedIn](https://www.linkedin.com/in/jonasggaribeiro)]
+
+
 
