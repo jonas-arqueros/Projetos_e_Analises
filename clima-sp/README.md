@@ -16,9 +16,7 @@ Este projeto faz parte do meu portfólio de análise de dados e tem como objetiv
 ## 🗂️ Estrutura do Projeto
 
 - `data/`: dados utilizados no projeto
-  - `raw/`: dados brutos (direto das fontes, sem tratamento)
 - `notebooks/`: notebooks com a análise exploratória
-- `src/`: scripts Python com funções de tratamento e análise
 - `visuals/`: imagens e gráficos gerados
   - `graphs/`: gráficos exportados
 - `README.md`: documentação geral do projeto
