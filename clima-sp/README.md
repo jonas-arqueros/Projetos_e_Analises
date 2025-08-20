@@ -38,7 +38,7 @@ Este projeto faz parte do meu portfólio de análise de dados e tem como objetiv
 ## 📊 Exemplos de Visualizações
 
 ### Temperatura Média Anual
-![Temperatura Média Anual](visuals/graphs/medias_mensais_temperatura_sp_regressao.png)
+![Temperatura Média Anual](visuals/graphs/medias_mensais_temperatura_amplitude_sp_regressao-2020.png)
 
 ### Heatmap: Temperatura Máxima por Mês e Ano  
 ![Heatmap Temperatura](visuals/graphs/media_tmax_heatmap_sp.png)
