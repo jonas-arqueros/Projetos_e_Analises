@@ -1,4 +1,4 @@
-# 🌨🌤️ Análise de Temperaturas e Precipitação em São Paulo (1974–2024) 🌡🌧
+# 🌨🌤️ Análise de 50 anos de dados meteorológicos de São Paulo: tendências, sazonalidade e padrões climáticos 🌡🌧
 
 Este projeto faz parte do meu portfólio de análise de dados e tem como objetivo explorar dados meteorológicos da cidade de São Paulo ao longo dos últimos 50 anos, com foco em **temperatura** e **precipitação**.
 
